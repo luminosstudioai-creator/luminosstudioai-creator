@@ -9,11 +9,11 @@ Ich entwickle eigene Softwarelösungen für **lokale KI, LLM-Integration und Wor
 ### Ausgewählte Projekte
 
 <p>
-<a href="https://github.com/luminosstudioai-creator/receiptgate"><img src="assets/receiptgate.svg" width="49%" alt="Receiptgate · Alpha — Befehle mit Exit-Code und Git-Stand belegen." /></a>
-<a href="https://github.com/luminosstudioai-creator/json-response-gate"><img src="assets/json-response-gate.svg" width="49%" alt="JSON Response Gate — KI-Ausgaben gegen Feldverträge prüfen." /></a>
+<a href="https://github.com/luminosstudioai-creator/receiptgate"><picture><source media="(max-width: 600px)" srcset="assets/receiptgate-mobile.svg" /><img src="assets/receiptgate.svg" width="49%" alt="Receiptgate · Alpha — Befehle mit Exit-Code und Git-Stand belegen." /></picture></a>
+<a href="https://github.com/luminosstudioai-creator/json-response-gate"><picture><source media="(max-width: 600px)" srcset="assets/json-response-gate-mobile.svg" /><img src="assets/json-response-gate.svg" width="49%" alt="JSON Response Gate — KI-Ausgaben gegen Feldverträge prüfen." /></picture></a>
 <br />
-<a href="https://github.com/luminosstudioai-creator/local-model-eval"><img src="assets/local-model-eval.svg" width="49%" alt="Local Model Eval — Aufgezeichnete Antworten mit expliziten Rubriken vergleichen." /></a>
-<a href="https://github.com/luminosstudioai-creator/ai-context-redactor"><img src="assets/ai-context-redactor.svg" width="49%" alt="AI Context Redactor — Ausgewählte sensible Muster lokal entfernen." /></a>
+<a href="https://github.com/luminosstudioai-creator/local-model-eval"><picture><source media="(max-width: 600px)" srcset="assets/local-model-eval-mobile.svg" /><img src="assets/local-model-eval.svg" width="49%" alt="Local Model Eval — Aufgezeichnete Antworten mit expliziten Rubriken vergleichen." /></picture></a>
+<a href="https://github.com/luminosstudioai-creator/ai-context-redactor"><picture><source media="(max-width: 600px)" srcset="assets/ai-context-redactor-mobile.svg" /><img src="assets/ai-context-redactor.svg" width="49%" alt="AI Context Redactor — Ausgewählte sensible Muster lokal entfernen." /></picture></a>
 </p>
 
 <sub>Eigenständige Python-Werkzeuge · Ohne API-Schlüssel · Automatisierte Tests · Synthetische Beispiele</sub>
