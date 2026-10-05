@@ -2,11 +2,12 @@
   <img src="assets/header.svg" width="100%" alt="Mika Mischke — Lokale KI, Integration und Automatisierung. Offen für Remote, Teilzeit und Minijob." />
 </p>
 
-Ich entwickle eigene Softwarelösungen für **lokale KI, LLM-Integration und Workflow-Automatisierung**. Meine Arbeitsproben zeigen, wie sich KI-Ausgaben prüfen, Antworten vergleichen und automatisierte Abläufe nachvollziehbar absichern lassen.
+Ich entwickle eigene Softwarelösungen für **lokale KI und automatisierte Abläufe**.
+Hier zeige ich kleine Werkzeuge, die du selbst ausprobieren und prüfen kannst.
 
 <br />
 
-### Ausgewählte Projekte
+### Kleine Werkzeuge. Klare Aufgaben.
 
 <p>
 <a href="https://github.com/luminosstudioai-creator/receiptgate"><picture><source media="(max-width: 600px)" srcset="assets/receiptgate-mobile.svg" /><img src="assets/receiptgate.svg" width="49%" alt="Receiptgate · Alpha — Befehle mit Exit-Code und Git-Stand belegen." /></picture></a>
@@ -16,13 +17,13 @@ Ich entwickle eigene Softwarelösungen für **lokale KI, LLM-Integration und Wor
 <a href="https://github.com/luminosstudioai-creator/ai-context-redactor"><picture><source media="(max-width: 600px)" srcset="assets/ai-context-redactor-mobile.svg" /><img src="assets/ai-context-redactor.svg" width="49%" alt="AI Context Redactor — Ausgewählte sensible Muster lokal entfernen." /></picture></a>
 </p>
 
-<sub>Eigenständige Python-Werkzeuge · Ohne API-Schlüssel · Automatisierte Tests · Synthetische Beispiele</sub>
+<sub>Python · Lokal ausführbar · Mit Tests und synthetischen Beispielen</sub>
 
 Die Projekt-READMEs enthalten Demos, Testbefehle und Einschränkungen. Receiptgate ist eine **Alpha**; die Agentenintegration ist noch experimentell.
 
 <br />
 
-### Gemeinsam an sinnvollen KI-Abläufen arbeiten
+### Lass uns sprechen.
 
 Offen für **Remote-Anstellungen** in KI-Integration und Automatisierung — auch Teilzeit oder Minijob.
 
