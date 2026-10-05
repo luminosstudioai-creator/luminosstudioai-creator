@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 600 256"><title>Local Model Eval — Aufgezeichnete Antworten vergleichen.</title><rect x="1" y="1" width="598" height="254" rx="18" fill="#15243A" stroke="#344B66"/>
+ <rect x="30" y="33" width="5" height="22" rx="2" fill="#9DAFD9"/><text x="48" y="50" fill="#9DAFD9" font-family="monospace" font-size="13" letter-spacing="1.3">REPRODUZIERBARE EVALUATION</text>
+ <text x="30" y="101" fill="#EDF3FA" font-family="Trebuchet MS,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-.8">Local Model Eval</text>
+ <g fill="#BBCBDD" font-family="Arial,sans-serif" font-size="19"><text x="30" y="141">Aufgezeichnete Antworten vergleichen.</text><text x="30" y="170">Explizite Rubriken statt Bauchgefühl.</text></g>
+ <path d="M30 192H570" stroke="#344B66"/><text x="30" y="225" fill="#9DAFD9" font-family="monospace" font-size="13" letter-spacing="1.2">PYTHON · OFFLINE EVAL</text>
+ <path d="M540 223L561 202M543 202H561V220" fill="none" stroke="#9DAFD9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>

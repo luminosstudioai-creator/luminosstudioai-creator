@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 1200 340"><title>Mika Mischke — Lokale KI, Integration und Automatisierung</title>
+<defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="#152B45"/><stop offset="1" stop-color="#18243D"/></linearGradient></defs>
+<rect width="1200" height="340" rx="24" fill="url(#surface)"/>
+<path d="M766 0V340 M878 0V340 M990 0V340 M1102 0V340 M710 58H1200 M710 170H1200 M710 282H1200" stroke="#A5C9E6" stroke-opacity=".07"/>
+<text x="52" y="64" fill="#8BCDD8" font-family="monospace" font-size="16" letter-spacing="3">SOFTWARE · SYSTEME · LOKALE KI</text>
+<text x="48" y="147" fill="#F2F6FB" font-family="Trebuchet MS,Arial,sans-serif" font-weight="700" font-size="68" letter-spacing="-2">Mika Mischke</text>
+<text x="52" y="199" fill="#BCCDE0" font-family="Arial,sans-serif" font-size="26">KI sinnvoll in Abläufe integrieren.</text>
+<rect x="52" y="253" width="310" height="38" rx="19" fill="#8BCDD8" fill-opacity=".10" stroke="#8BCDD8" stroke-opacity=".32"/>
+<circle cx="74" cy="272" r="4" fill="#8BCDD8"/><text x="90" y="278" fill="#D4EAF0" font-family="Arial,sans-serif" font-size="16">Remote · Teilzeit · Minijob</text>
+<g fill="none" stroke="#719BBE" stroke-width="2"><path d="M799 111H850Q873 111 873 135V151 M873 205V229Q873 252 897 252H966"/><path d="M873 177H1039" stroke-dasharray="4 6"/></g>
+<g font-family="monospace" font-size="14"><rect x="746" y="80" width="105" height="62" rx="12" fill="#223951" stroke="#587D9E"/><text x="768" y="117" fill="#C7D9EC">INPUT</text>
+<rect x="809" y="151" width="127" height="54" rx="12" fill="#294657" stroke="#8BCDD8"/><text x="832" y="184" fill="#A7DFE7">LOKAL</text>
+<rect x="966" y="221" width="169" height="62" rx="12" fill="#33314E" stroke="#B5A7DD"/><text x="987" y="258" fill="#D4CAE9">GEPRÜFT ✓</text>
+<circle cx="1061" cy="177" r="19" fill="#263B51" stroke="#719BBE"/><path d="M1053 177H1069M1061 169V185" stroke="#94BAD7" stroke-width="2"/></g></svg>

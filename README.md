@@ -1,27 +1,32 @@
-# Mika Mischke
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Mika Mischke — Lokale KI, Integration und Automatisierung. Offen für Remote, Teilzeit und Minijob." />
+</p>
 
-Lokale KI · LLM-Integration · Workflow-Automatisierung
+Ich entwickle eigene Softwarelösungen für **lokale KI, LLM-Integration und Workflow-Automatisierung**. Meine Arbeitsproben zeigen, wie sich KI-Ausgaben prüfen, Antworten vergleichen und automatisierte Abläufe nachvollziehbar absichern lassen.
 
-Ich entwickle eigene Softwarelösungen und beschäftige mich damit, wie sich
-Sprachmodelle sinnvoll in bestehende Abläufe integrieren lassen. Hier zeige
-ich kleine, eigenständig ausführbare Werkzeuge mit klaren Grenzen, synthetischen
-Beispielen und automatisierten Tests.
+<br />
 
-## Öffentliche Arbeitsproben
+### Ausgewählte Projekte
 
-| Projekt | Was du ausprobieren kannst |
-|---|---|
-| [receiptgate · Alpha](https://github.com/luminosstudioai-creator/receiptgate) | Ausgeführte Befehle mit Exit-Code und Git-Stand belegen; riskante Schritte an aktuelle Belege binden |
-| [JSON Response Gate](https://github.com/luminosstudioai-creator/json-response-gate) | KI-Ausgaben vor der Weiterverarbeitung strikt gegen Feldverträge prüfen |
-| [Local Model Eval](https://github.com/luminosstudioai-creator/local-model-eval) | Aufgezeichnete LLM-Antworten mit reproduzierbaren Testfällen vergleichen |
-| [AI Context Redactor](https://github.com/luminosstudioai-creator/ai-context-redactor) | Ausgewählte sensible Muster lokal aus Texten und Datensätzen entfernen |
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/luminosstudioai-creator/receiptgate"><img src="assets/receiptgate.svg" width="100%" alt="Receiptgate · Alpha — Befehle mit Exit-Code und Git-Stand belegen." /></a></td>
+<td width="50%"><a href="https://github.com/luminosstudioai-creator/json-response-gate"><img src="assets/json-response-gate.svg" width="100%" alt="JSON Response Gate — KI-Ausgaben gegen Feldverträge prüfen." /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/luminosstudioai-creator/local-model-eval"><img src="assets/local-model-eval.svg" width="100%" alt="Local Model Eval — Aufgezeichnete Antworten mit expliziten Rubriken vergleichen." /></a></td>
+<td width="50%"><a href="https://github.com/luminosstudioai-creator/ai-context-redactor"><img src="assets/ai-context-redactor.svg" width="100%" alt="AI Context Redactor — Ausgewählte sensible Muster lokal entfernen." /></a></td>
+</tr>
+</table>
 
-Alle vier Projekte laufen ohne API-Schlüssel und ohne Modellkosten.
-Die READMEs erklären Einsatz, Demos, Tests und die jeweiligen Einschränkungen.
+<sub>Eigenständige Python-Werkzeuge · Ohne API-Schlüssel · Automatisierte Tests · Synthetische Beispiele</sub>
 
-## Kontakt
+Die Projekt-READMEs enthalten Demos, Testbefehle und Einschränkungen. Receiptgate ist eine **Alpha**; die Agentenintegration ist noch experimentell.
 
-Offen für **Remote-Anstellungen im Bereich KI-Integration und Automatisierung**,
-auch Teilzeit oder Minijob.
+<br />
 
-[LinkedIn: Mika Mischke](https://www.linkedin.com/in/mika-mischke/)
+### Gemeinsam an sinnvollen KI-Abläufen arbeiten
+
+Offen für **Remote-Anstellungen** in KI-Integration und Automatisierung — auch Teilzeit oder Minijob.
+
+**[Auf LinkedIn kontaktieren ↗](https://www.linkedin.com/in/mika-mischke/)**

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 600 256"><title>AI Context Redactor — Ausgewählte sensible Muster entfernen.</title><rect x="1" y="1" width="598" height="254" rx="18" fill="#15243A" stroke="#344B66"/>
+ <rect x="30" y="33" width="5" height="22" rx="2" fill="#AFCBBC"/><text x="48" y="50" fill="#AFCBBC" font-family="monospace" font-size="13" letter-spacing="1.3">SENSIBLE KONTEXTE</text>
+ <text x="30" y="101" fill="#EDF3FA" font-family="Trebuchet MS,Arial,sans-serif" font-weight="700" font-size="34" letter-spacing="-.8">AI Context Redactor</text>
+ <g fill="#BBCBDD" font-family="Arial,sans-serif" font-size="19"><text x="30" y="141">Ausgewählte sensible Muster entfernen.</text><text x="30" y="170">Lokale Verarbeitung mit klaren Grenzen.</text></g>
+ <path d="M30 192H570" stroke="#344B66"/><text x="30" y="225" fill="#AFCBBC" font-family="monospace" font-size="13" letter-spacing="1.2">PYTHON · DATENFILTER</text>
+ <path d="M540 223L561 202M543 202H561V220" fill="none" stroke="#AFCBBC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
