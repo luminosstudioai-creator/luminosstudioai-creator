@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><source media="(max-width: 600px)" srcset="assets/header-mobile.svg" /><img src="assets/header-glass.png" width="100%" alt="Mika Mischke — Lokale KI, Integration und Automatisierung. Offen für Remote, Teilzeit und Minijob." /></picture>
+  <picture><source media="(max-width: 600px)" srcset="assets/header-mobile.svg" /><img src="assets/header.svg" width="100%" alt="Mika Mischke — Lokale KI, Integration und Automatisierung. Offen für Remote, Teilzeit und Minijob." /></picture>
 </p>
 
 Ich entwickle eigene Softwarelösungen für **lokale KI und automatisierte Abläufe**.
