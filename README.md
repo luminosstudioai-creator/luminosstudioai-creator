@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Mika Mischke — Lokale KI, Integration und Automatisierung. Offen für Remote, Teilzeit und Minijob." />
+  <picture><source media="(max-width: 600px)" srcset="assets/header-mobile.svg" /><img src="assets/header-glass.png" width="100%" alt="Mika Mischke — Lokale KI, Integration und Automatisierung. Offen für Remote, Teilzeit und Minijob." /></picture>
 </p>
 
 Ich entwickle eigene Softwarelösungen für **lokale KI und automatisierte Abläufe**.
-Hier zeige ich kleine Werkzeuge, die du selbst ausprobieren und prüfen kannst.
+Meine Projekte machen KI-Ausgaben prüfbar und automatisierte Abläufe nachvollziehbar.
 
 <br />
 
-### Kleine Werkzeuge. Klare Aufgaben.
+### Ausgewählte Arbeiten
 
 <p>
 <a href="https://github.com/luminosstudioai-creator/receiptgate"><picture><source media="(max-width: 600px)" srcset="assets/receiptgate-mobile.svg" /><img src="assets/receiptgate.svg" width="49%" alt="Receiptgate · Alpha — Befehle mit Exit-Code und Git-Stand belegen." /></picture></a>
@@ -23,7 +23,7 @@ Die Projekt-READMEs enthalten Demos, Testbefehle und Einschränkungen. Receiptga
 
 <br />
 
-### Lass uns sprechen.
+### Kontakt
 
 Offen für **Remote-Anstellungen** in KI-Integration und Automatisierung — auch Teilzeit oder Minijob.
 
